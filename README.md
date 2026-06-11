@@ -87,6 +87,6 @@ edge-vlm-bench/
 ## What I learned
 
 - **Benchmark design is half the work**: my first runs were invalid twice — once because `--limit` took the first N images (all one class, since the dataset is sorted by class), and once because two label classes overlapped semantically. Chance-level accuracy is a signal to audit the methodology, not just the model.
-- **Force structured output, don't ask for it**: prompt instructions alone ("reply with only the category name") failed for BakLLaVA; grammar-constrained decoding (Ollama JSON mode) succeeded. Free-text parsing of small-VLM output is not reliable.
+- **Enforce output format at decode time, not in the prompt**: BakLLaVA ignored the instruction "reply with only the category name" and answered with bare digits instead. Enabling Ollama's JSON mode, which restricts token sampling to valid JSON, fixed this immediately. Small VLMs cannot be trusted to follow format instructions, so the runtime has to enforce the format.
 - **CPU inference is prohibitively slow**: 83–193 seconds per image on a modern i7. Real-time AV perception (30+ FPS) requires dedicated hardware — a ~10,000× throughput gap.
 - **Model capability ≠ deployment readiness**: a model that is "smart" in benchmarks may still fail in production due to output-format inconsistency, cold-start latency, or runtime incompatibility (moondream returned empty responses under Ollama 0.24.0 and had to be excluded).

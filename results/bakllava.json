@@ -1,0 +1,236 @@
+[
+  {
+    "file": "0000_city_street.jpg",
+    "scene_gt": "city street",
+    "tasks": {
+      "scene": {
+        "predicted": "highway",
+        "gt": "city street",
+        "correct": false,
+        "latency_ms": 144315.3,
+        "raw": "{\"category\": \"highway\" }"
+      }
+    }
+  },
+  {
+    "file": "0010_residential.jpg",
+    "scene_gt": "residential",
+    "tasks": {
+      "scene": {
+        "predicted": "[0.28, 0.36, 1.0, 0.54]",
+        "gt": "residential",
+        "correct": false,
+        "latency_ms": 108072.3,
+        "raw": "{\"category\": [0.28, 0.36, 1.0, 0.54],\"type\": \"parking lot\"\n\n}"
+      }
+    }
+  },
+  {
+    "file": "0020_highway.jpg",
+    "scene_gt": "highway",
+    "tasks": {
+      "scene": {
+        "predicted": "residential",
+        "gt": "highway",
+        "correct": false,
+        "latency_ms": 291950.8,
+        "raw": "{\"category\": \"residential\" }"
+      }
+    }
+  },
+  {
+    "file": "0001_city_street.jpg",
+    "scene_gt": "city street",
+    "tasks": {
+      "scene": {
+        "predicted": "city street",
+        "gt": "city street",
+        "correct": true,
+        "latency_ms": 202270.1,
+        "raw": "{\"category\": \"city street\" }"
+      }
+    }
+  },
+  {
+    "file": "0011_residential.jpg",
+    "scene_gt": "residential",
+    "tasks": {
+      "scene": {
+        "predicted": "residential",
+        "gt": "residential",
+        "correct": true,
+        "latency_ms": 193923.4,
+        "raw": "{\"category\": \"residential\" }"
+      }
+    }
+  },
+  {
+    "file": "0021_highway.jpg",
+    "scene_gt": "highway",
+    "tasks": {
+      "scene": {
+        "predicted": "highway",
+        "gt": "highway",
+        "correct": true,
+        "latency_ms": 241094.3,
+        "raw": "{\"category\": \"highway\" }"
+      }
+    }
+  },
+  {
+    "file": "0002_city_street.jpg",
+    "scene_gt": "city street",
+    "tasks": {
+      "scene": {
+        "predicted": "city street",
+        "gt": "city street",
+        "correct": true,
+        "latency_ms": 234540.7,
+        "raw": "{\"category\": \"city street\" }"
+      }
+    }
+  },
+  {
+    "file": "0012_residential.jpg",
+    "scene_gt": "residential",
+    "tasks": {
+      "scene": {
+        "predicted": "residential",
+        "gt": "residential",
+        "correct": true,
+        "latency_ms": 191463.9,
+        "raw": "{\"category\": \"residential\" }"
+      }
+    }
+  },
+  {
+    "file": "0022_highway.jpg",
+    "scene_gt": "highway",
+    "tasks": {
+      "scene": {
+        "predicted": "residential",
+        "gt": "highway",
+        "correct": false,
+        "latency_ms": 186619.1,
+        "raw": "{\"category\": \"residential\" }"
+      }
+    }
+  },
+  {
+    "file": "0003_city_street.jpg",
+    "scene_gt": "city street",
+    "tasks": {
+      "scene": {
+        "predicted": "city street",
+        "gt": "city street",
+        "correct": true,
+        "latency_ms": 184898.8,
+        "raw": "{\"category\": \"city street\" }"
+      }
+    }
+  },
+  {
+    "file": "0013_residential.jpg",
+    "scene_gt": "residential",
+    "tasks": {
+      "scene": {
+        "predicted": "residential",
+        "gt": "residential",
+        "correct": true,
+        "latency_ms": 185081.4,
+        "raw": "{\"category\": \"residential\" }"
+      }
+    }
+  },
+  {
+    "file": "0023_highway.jpg",
+    "scene_gt": "highway",
+    "tasks": {
+      "scene": {
+        "predicted": "highway",
+        "gt": "highway",
+        "correct": true,
+        "latency_ms": 182059.7,
+        "raw": "{\"category\": \" highway\" }"
+      }
+    }
+  },
+  {
+    "file": "0004_city_street.jpg",
+    "scene_gt": "city street",
+    "tasks": {
+      "scene": {
+        "predicted": "city street",
+        "gt": "city street",
+        "correct": true,
+        "latency_ms": 184226.8,
+        "raw": "{\"category\": \"city street\"\n\n}"
+      }
+    }
+  },
+  {
+    "file": "0014_residential.jpg",
+    "scene_gt": "residential",
+    "tasks": {
+      "scene": {
+        "predicted": "residential",
+        "gt": "residential",
+        "correct": true,
+        "latency_ms": 179927.9,
+        "raw": "{\"category\": \"residential\" }"
+      }
+    }
+  },
+  {
+    "file": "0024_highway.jpg",
+    "scene_gt": "highway",
+    "tasks": {
+      "scene": {
+        "predicted": "highway",
+        "gt": "highway",
+        "correct": true,
+        "latency_ms": 188421.1,
+        "raw": "{\"category\": \" highway \"}"
+      }
+    }
+  },
+  {
+    "file": "0005_city_street.jpg",
+    "scene_gt": "city street",
+    "tasks": {
+      "scene": {
+        "predicted": "city street",
+        "gt": "city street",
+        "correct": true,
+        "latency_ms": 206724.9,
+        "raw": "{\"category\": \"city street\" }"
+      }
+    }
+  },
+  {
+    "file": "0015_residential.jpg",
+    "scene_gt": "residential",
+    "tasks": {
+      "scene": {
+        "predicted": "residential",
+        "gt": "residential",
+        "correct": true,
+        "latency_ms": 185189.9,
+        "raw": "{\"category\": \"residential\" }"
+      }
+    }
+  },
+  {
+    "file": "0025_highway.jpg",
+    "scene_gt": "highway",
+    "tasks": {
+      "scene": {
+        "predicted": "highway",
+        "gt": "highway",
+        "correct": true,
+        "latency_ms": 182048.7,
+        "raw": "{\"category\": \"highway\" }"
+      }
+    }
+  }
+]

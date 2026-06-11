@@ -1,0 +1,242 @@
+[
+  {
+    "file": "0000_city_street.jpg",
+    "scene": "city street",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0001_city_street.jpg",
+    "scene": "city street",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0002_city_street.jpg",
+    "scene": "city street",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0003_city_street.jpg",
+    "scene": "city street",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0004_city_street.jpg",
+    "scene": "city street",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0005_city_street.jpg",
+    "scene": "city street",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0006_city_street.jpg",
+    "scene": "city street",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0007_city_street.jpg",
+    "scene": "city street",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0008_city_street.jpg",
+    "scene": "city street",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0009_city_street.jpg",
+    "scene": "city street",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0010_residential.jpg",
+    "scene": "residential",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0011_residential.jpg",
+    "scene": "residential",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0012_residential.jpg",
+    "scene": "residential",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0013_residential.jpg",
+    "scene": "residential",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0014_residential.jpg",
+    "scene": "residential",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0015_residential.jpg",
+    "scene": "residential",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0016_residential.jpg",
+    "scene": "residential",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0017_residential.jpg",
+    "scene": "residential",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0018_residential.jpg",
+    "scene": "residential",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0019_residential.jpg",
+    "scene": "residential",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0020_highway.jpg",
+    "scene": "highway",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0021_highway.jpg",
+    "scene": "highway",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0022_highway.jpg",
+    "scene": "highway",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0023_highway.jpg",
+    "scene": "highway",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0024_highway.jpg",
+    "scene": "highway",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0025_highway.jpg",
+    "scene": "highway",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0026_highway.jpg",
+    "scene": "highway",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0027_highway.jpg",
+    "scene": "highway",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0028_highway.jpg",
+    "scene": "highway",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0029_highway.jpg",
+    "scene": "highway",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0030_urban.jpg",
+    "scene": "urban",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0031_urban.jpg",
+    "scene": "urban",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0032_urban.jpg",
+    "scene": "urban",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0033_urban.jpg",
+    "scene": "urban",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0034_urban.jpg",
+    "scene": "urban",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0035_urban.jpg",
+    "scene": "urban",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0036_urban.jpg",
+    "scene": "urban",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0037_urban.jpg",
+    "scene": "urban",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0038_urban.jpg",
+    "scene": "urban",
+    "timeofday": "daytime",
+    "weather": "clear"
+  },
+  {
+    "file": "0039_urban.jpg",
+    "scene": "urban",
+    "timeofday": "daytime",
+    "weather": "clear"
+  }
+]

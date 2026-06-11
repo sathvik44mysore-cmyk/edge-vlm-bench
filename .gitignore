@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset images are fetched by data/download.py
+data/images/

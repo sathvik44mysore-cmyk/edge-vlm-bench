@@ -4,3 +4,10 @@ __pycache__/
 
 # Dataset images are fetched by data/download.py
 data/images/
+
+# Secrets / local environment
+.env
+.env.*
+!.env.example
+*.key
+*.pem
